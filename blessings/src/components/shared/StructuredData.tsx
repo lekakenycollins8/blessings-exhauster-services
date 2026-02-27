@@ -30,7 +30,7 @@ export function StructuredData() {
     })),
     "openingHours": "Mo-Su 00:00-23:59",
     "priceRange": "$$",
-    "url": "https://blessingexhausters.co.ke",
+    "url": "https://blessingsexhauster.co.ke",
   };
 
   const serviceSchema = {
@@ -89,7 +89,7 @@ export function StructuredData() {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": COMPANY_INFO.name,
-    "url": "https://blessingexhausters.co.ke",
+    "url": "https://blessingsexhauster.co.ke",
     "logo": "/images/logo.png",
     "contactPoint": {
       "@type": "ContactPoint",
@@ -99,9 +99,9 @@ export function StructuredData() {
       "availableLanguage": ["English", "Swahili"],
     },
     "sameAs": [
-      "https://facebook.com/blessingexhausters",
-      "https://instagram.com/blessingexhausters",
-      "https://twitter.com/blessingexhaust",
+      "https://facebook.com/blessingsexhauster",
+      "https://instagram.com/blessingsexhauster",
+      "https://twitter.com/blessingsexhauster",
     ],
   };
 

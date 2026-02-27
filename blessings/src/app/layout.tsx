@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Exhauster & Moving Services | 0727 650 246 | 0734 466 674 |Kisii, Nyamira, Migori, Homabay | Blessing Movers",
+  title: "Exhauster & Moving Services | 0727 650 246 | 0734 466 674 | Kisii, Nyamira, Migori, Homabay",
   description: "Professional exhauster & transport services in Kisii, Nyamira, Migori & Homabay. 24/7 septic tank emptying, grease trap cleaning, moving services. Call 0727 650 246 today!",
   keywords: [
     "exhauster services kisii",

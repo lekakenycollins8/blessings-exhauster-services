@@ -1,7 +1,7 @@
 export const COMPANY_INFO = {
   name: 'Blessing Movers & Exhauster',
   tagline: 'Dedicated to delivering top tier services both transport and exhauster with focus on innovation, sustainability, and customer satisfaction',
-  shortDescription: 'Professional exhauster and transport services in Kisii, Nyamira, Migori & Homabay',
+  shortDescription: 'Professional exhauster and transport services in Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgarian & Awendo',
   
   values: [
     {
@@ -43,7 +43,7 @@ export const COMPANY_INFO = {
     {
       id: '24-7-availability',
       title: '24/7 Availability',
-      description: 'Emergencies don\'t wait, and neither do we. Our emergency services are available round the clock across all four counties.',
+      description: 'Emergencies don\'t wait, and neither do we. Our emergency services are available round the clock across all service areas.',
       icon: 'clock',
     },
     {
@@ -62,6 +62,6 @@ export const COMPANY_INFO = {
     '24/7 Emergency Service',
     'Eco-Friendly Practices',
     'Customer Satisfaction Guaranteed',
-    'Serving 4 Counties',
+    'Serving 7 Locations',
   ],
 } as const;

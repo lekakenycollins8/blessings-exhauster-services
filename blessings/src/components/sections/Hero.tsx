@@ -8,7 +8,7 @@ import { getWhatsAppUrl } from '@/lib/utils/whatsapp';
 export function Hero() {
   return (
     <section id="home" className="relative min-h-screen flex items-center justify-center text-white overflow-hidden">
-      <div className="absolute inset-0 bg-[url('/images/exhauster-service-kisii-septic-tank.jpeg')] bg-cover bg-center" />
+      <div className="absolute inset-0 bg-[url('/images/exhauster-truck-professional-team.jpeg')] bg-cover bg-center" />
       <div className="absolute inset-0 bg-black/50" />
       
       <div className="relative z-10 container mx-auto px-4 py-32 md:py-40 text-center">

@@ -85,10 +85,10 @@ export function Footer() {
           <div>
             <h4 className="text-white text-lg font-semibold mb-4">Service Areas</h4>
             <ul className="space-y-2 text-sm">
-              {COUNTY_NAMES.map((county) => (
-                <li key={county}>
+              {COUNTY_NAMES.map((location) => (
+                <li key={location}>
                   <a href="#service-areas" className="hover:text-green-400 transition-colors">
-                    {county} County
+                    {location}
                   </a>
                 </li>
               ))}

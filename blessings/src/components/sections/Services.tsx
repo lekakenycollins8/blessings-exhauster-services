@@ -6,13 +6,13 @@ import { getWhatsAppUrl } from '@/lib/utils/whatsapp';
 import Image from 'next/image';
 
 const serviceImages = {
-  'septic-tank': '/images/exhauster-truck-professional-team.jpeg',
-  'grease-trap': '/images/exhauster-service-emergency.jpeg',
-  'pit-latrine': '/images/exhauster-service-emergency.jpeg',
+  'septic-tank': '/images/exhauster-truck-nyamira-service.jpeg',
+  'grease-trap': '/images/exhauster-truck-septic-tank-service.jpeg',
+  'pit-latrine': '/images/exhauster-truck-residential-service.jpeg',
   'emergency': '/images/exhauster-service-emergency.jpeg',
   'residential-moving': '/images/moving-services-homabay.jpeg',
-  'commercial-moving': '/images/moving-services-homabay.jpeg',
-  'furniture-transport': '/images/moving-services-homabay.jpeg',
+  'commercial-moving': '/images/transport-truck-cargo-service.jpeg',
+  'furniture-transport': '/images/WhatsApp Image 2026-02-21 at 13.25.34 (4).jpeg',
   'cargo-transport': '/images/exhauster-fleet-blessing-movers.jpeg',
 };
 
@@ -23,7 +23,7 @@ export function Services() {
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-4">Our Professional Services</h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Comprehensive exhauster and transport solutions tailored to meet your needs across Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgarian, and Awendo.
+            Comprehensive exhauster and transport solutions tailored to meet your needs across Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgorian, Kehancha, and Awendo.
           </p>
         </div>
 

@@ -61,7 +61,8 @@ export const SERVICE_AREAS = [
       'Rongo',
       'Awendo',
       'Kilgoris',
-      'Lolgarian',
+      'Lolgorian',
+      'Kehancha',
       'Uriri',
       'Suna',
       'And all surrounding areas',
@@ -108,4 +109,4 @@ export const SERVICE_AREAS = [
   },
 ] as const;
 
-export const COUNTY_NAMES = ['Kisii', 'Nyamira', 'Migori', 'Homabay', 'Kilgoris', 'Lolgarian', 'Awendo'] as const;
+export const COUNTY_NAMES = ['Kisii', 'Nyamira', 'Migori', 'Homabay', 'Kilgoris', 'Lolgorian', 'Kehancha', 'Awendo'] as const;

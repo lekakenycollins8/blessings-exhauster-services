@@ -1,7 +1,7 @@
 export const COMPANY_INFO = {
   name: 'Blessing Movers & Exhauster',
   tagline: 'Dedicated to delivering top tier services both transport and exhauster with focus on innovation, sustainability, and customer satisfaction',
-  shortDescription: 'Professional exhauster and transport services in Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgarian & Awendo',
+  shortDescription: 'Professional exhauster and transport services in Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgorian, Kehancha & Awendo',
   
   values: [
     {

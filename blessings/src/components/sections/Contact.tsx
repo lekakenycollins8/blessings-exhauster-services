@@ -93,7 +93,7 @@ export function Contact() {
 
           <div className="mt-12 text-center">
             <p className="text-lg text-muted-foreground">
-              Serving <span className="font-semibold text-green-600">Kisii, Nyamira, Migori & Homabay</span> counties
+              Serving <span className="font-semibold text-green-600">Kisii, Nyamira, Migori, Homabay, Kilgoris, Lolgorian, Kehancha & Awendo</span>
             </p>
           </div>
         </div>
